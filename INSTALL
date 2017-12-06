@@ -1,0 +1,9 @@
+Building Electric
+
+See doc/readme-qt.rst for instructions on building Electric-QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Electric.
+
+See doc/build-*.txt for instructions on building Electricd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Electric.
